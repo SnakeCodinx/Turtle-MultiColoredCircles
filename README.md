@@ -18,10 +18,10 @@ Overlapping circles: The circles are drawn in a way that they overlap each other
 Moderate speed: The speed function is set to 0.5, which means the turtle will draw the circles at a moderate speed, allowing you to see the pattern being created.
 
 
-Run
+# Run
 To run this code, save it to a file with a .py extension (e.g., multi_colored_circles.py) and execute it using Python (e.g., python multi_colored_circles.py). This will launch a window displaying the Multi-Colored Circles pattern.
 
-License
+# License
 This code is licensed under the MIT License. Feel free to modify, distribute, and use it for any purpose.
 
 # snake.coding
